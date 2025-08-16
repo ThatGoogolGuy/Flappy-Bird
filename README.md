@@ -1,2 +1,2 @@
-# Flappy-Bird
-Get as far as you can!
+Programed with tutorial.
+https://www.kennyyipcoding.com/
